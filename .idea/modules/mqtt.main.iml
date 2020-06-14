@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="mqtt:main" external.linked.project.path="$MODULE_DIR$/../../mqtt" external.root.project.path="$MODULE_DIR$/../../mqtt" external.system.id="GRADLE" external.system.module.group="com.message" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../rabbitmq" rootProjectPath="$MODULE_DIR$/../../rabbitmq" />
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <webroots />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../mqtt/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../mqtt/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../mqtt/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../mqtt/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.mockito:mockito-core:2.28.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy:1.9.10" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy-agent:1.9.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.objenesis:objenesis:2.6" level="project" />
+  </component>
+</module>

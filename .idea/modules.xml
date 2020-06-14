@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mqtt.iml" filepath="$PROJECT_DIR$/.idea/modules/mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mqtt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mqtt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mqtt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mqtt.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq.test.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq.test.iml" />
+    </modules>
+  </component>
+</project>
